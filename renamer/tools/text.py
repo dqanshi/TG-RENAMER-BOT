@@ -21,7 +21,7 @@ class TEXT:
 ** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ** Developer:** {bot_owner}
-
+"""
 
 
     HELP_USER = """**Follow Below Steps:**
